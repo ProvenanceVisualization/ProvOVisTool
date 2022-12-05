@@ -1,2 +1,9 @@
-Cytoscape Visualization Project Definitions
+The research page is created in order to present our comprehensive data visualization research and to introduce our open-source data visualization prototype including studied visualization approaches under a PhD study in Yildiz Technical University to meet the visualization needs such as:
+
+Graph Comparison
+Graph Summarization
+Backward and Forward Provenance Dependency
+Real Time Visualization
+
+based on  W3C PROV-O Ontology Model and to facilitate a comprehensive user study to validate proposed visualization approaches.
 
